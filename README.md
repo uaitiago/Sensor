@@ -448,16 +448,14 @@ This experiment demonstrated the ability of the platform to acquire chemically m
 
 Experimental datasets associated with the characterization of the platform are provided in this repository.
 
-The recommended organization is:
 
 ```text
-validation_data/
+data/
 |
 ├── voltage/
-├── battery_stability/
 ├── current/
-├── resistance/
-└── PANI_pH/
+├── resistencia/
+└── PANI/
 ```
 
 The voltage, current, battery-stability, and PANI directories contain the available experimental acquisition files used for analysis.
