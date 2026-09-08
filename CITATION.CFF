@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software or hardware platform in your research, please cite the associated publication."
+title: "An Open-Source Multifunctional Measurement Platform for High-Impedance Potentiometric Sensors and Electrical Characterization"
+type: software
+authors:
+  - family-names: "Querino"
+    given-names: "Tiago A. A."
+  - family-names: "Mello"
+    given-names: "Hugo J. N. P. D."
+repository-code: "https://github.com/uaitiago/Sensor"
+license: MIT
+date-released: 2026-09-07
